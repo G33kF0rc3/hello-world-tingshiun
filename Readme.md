@@ -15,7 +15,7 @@ I recommend you to use [Atom](https://atom.io/) as your text editor, it's free.
 To run Javascript outside of your browser, we need something called "Node". Node is a JavaScript runtime, we'll teach you more about it later.
 
 ##### 3. Git
-This whole project is managed with [Git](https://git-scm.com/). Git is a version control system, by keeping track of historical points of the project, allow people to collaborate and it also allows to track who did what. Simple.
+This whole project is managed with [Git](https://git-scm.com/). Git is a version control system, by keeping track of historical points of the project, allows people to collaborate while keeping track of who did what. Simple.
 
 I recommend you to use [GitHub Desktop](https://desktop.github.com/) for this, as it has a painless integration with GitHub.
 
@@ -24,7 +24,7 @@ I recommend you to use [GitHub Desktop](https://desktop.github.com/) for this, a
 #### ...with GitHub Desktop
 > TODO: @Gerd, add steps for GitHub Desktop
 
-> TODO: failed attempt of Jessica trying to explain how to do this on the command line... this is too difficlut to summarize as "simply do A, then execute B, you're done with C now..."
+> TODO: failed attempt of Jessica trying to explain how to do this on the command line... this is a bit long of a process to summarize as "simply do A, then execute B, you're done with C now..."
 <!-- #### ...with the command line
 If you want to experiment with the command line, go ahead, no one's stopping you.
 Search for and launch the Terminal application on you Mac, you will be greeted with Bash:
@@ -40,9 +40,9 @@ Search for and launch the Terminal application on you Mac, you will be greeted w
   You can do so by using the `cd`,  _change directory_, command. It allows you to navigate to anywhere in the file system. 
   > note: directories are commonly refered to as folders
 
-  Say I'd like to keep my project in `geek-force` folder in ` Docements`, I can navigate there by:
+  Say I'd like to keep my project in `geek-force` folder in `Documents`, I can navigate there by:
   ```
-  $ cd Docements/geek-force
+  $ cd Documents/geek-force
   ```
 
 ##### 3. Now you can clone the repository from GitHub
@@ -82,7 +82,7 @@ This is the basic structure of an HTML file, it consists of any depth of nested 
 
 The `HTML` tag encapsules head and body. Everything inside of `body` is going to be rendered onto the page, while everything in the `head` tag are additional information you supply the browser. In this case, the `title` tag tells the browser the title of the page (pretty self-explanatory), which is typically displayed as the name of the tab.
 
-Now, right below the comment, add "Hello World" into the file. Then save (`⌘+S`) and navigate to the file in Finder. Double click it, or choose to Open With your browser. You should see `Hello World`is now displayed on the page. 
+Now, right below the comment, add "Hello World" into the file. Then save (`⌘+S`) and navigate to the file in Finder. Double click it, or choose to Open With your browser. You should see `Hello World` is now displayed on the page. 
 
 Congratulations! You have just made your first Hello World!
 
@@ -96,8 +96,8 @@ You might have noticed the content of Line 6 is not displayed, that's because it
 
 Now, there are a lot more you can put into body to have browsers display than short messages. For instance, anything formatting word processors, like Microsoft Word, support, you can express in an HTML document with tags as well.
 
-> TODO: examples & explanation
-> TODO: a task
+> - TODO: examples & explanation
+> - TODO: a task
 
 ##### reference
 [Mozilla's HTML Cheatsheet](https://developer.mozilla.org/en-US/docs/Learn/HTML/Cheatsheet) includes common tags you might want to use to format text. For anything else, like a table, don't be afraid to look it up!
@@ -127,5 +127,5 @@ You also see that this tag has an attribute, which are extra information placed 
 
 Great! Now you can do some serious coolness with HTML markup!
 
-> TODO: task
-> TODO: reference
+> - TODO: task
+> - TODO: reference
